@@ -1,0 +1,7 @@
+{
+  "git.ignoreLimitWarning": true,
+  "C_Cpp_Runner.cCompilerPath": "C:\\Program Files (x86)\\CodeBlocks\\MinGW\\bin\\gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:\\Program Files (x86)\\CodeBlocks\\MinGW\\bin\\g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:\\Program Files (x86)\\CodeBlocks\\MinGW\\bin\\gdb.exe",
+  "C_Cpp_Runner.makePath": "C:\\Program Files (x86)\\CodeBlocks\\MinGW\\bin\\make.exe"
+}
